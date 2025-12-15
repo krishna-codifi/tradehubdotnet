@@ -19,7 +19,7 @@ The demo covers:
 
 ## 1. Prerequisites
 
-* .NET SDK **8.0+**
+* .NET SDK **10.0+**
 * Windows / Linux / macOS
 * Active AliceBlue / TradeHub API credentials
 
