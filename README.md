@@ -245,18 +245,4 @@ dotnet run
 
 ---
 
-## 10. Support
-
-For enhancements:
-
-* Auto-reconnect WebSocket
-* Typed DTO models
-* NuGet packaging
-* Logging & metrics
-* Async-first REST layer
-
-Feel free to extend this demo as needed.
-
----
-
 **Happy Trading 🚀**
