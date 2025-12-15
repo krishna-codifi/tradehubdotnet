@@ -19,7 +19,7 @@ The demo covers:
 
 ## 1. Prerequisites
 
-* .NET SDK **8.0+**
+* .NET SDK **10.0+**
 * Windows / Linux / macOS
 * Active AliceBlue / TradeHub API credentials
 
@@ -62,7 +62,7 @@ Or in `TradeHubConsole.csproj`:
 Update credentials in `Program.cs`:
 
 ```csharp
-static string USER_ID = "912444";
+static string USER_ID = "USER_ID";
 static string AUTH_CODE = "YOUR_AUTH_CODE";
 static string SECRET_KEY = "YOUR_SECRET_KEY";
 ```
